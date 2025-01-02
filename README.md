@@ -12,4 +12,5 @@ Freeware
 
 ## Screenshot
 Here’s a glimpse of the Weather App interface:
+<br />
 <img src="./WeatherApp.png" alt="Weather App Screenshot" width="575">
