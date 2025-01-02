@@ -12,4 +12,4 @@ Freeware
 
 ## Screenshot
 Here’s a glimpse of the Weather App interface:
-![Weather App Screenshot](./WeatherApp.png)
+<img src="./WeatherApp.png" alt="Weather App Screenshot" width="575">
