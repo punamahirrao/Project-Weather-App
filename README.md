@@ -9,3 +9,7 @@ No installation needed. Just put files in a folder and open index.htm file in a 
 ## License
 
 Freeware
+
+## Screenshot
+Here’s a glimpse of the Weather App interface:
+![Weather App Screenshot](./WeatherApp.png)
